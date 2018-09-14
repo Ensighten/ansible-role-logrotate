@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: 'Rohan Liston'
+  description: 'Sets up automatic rotation and archival of log files.'
+  company: 'SSIL'
+  license: 'BSD'
+  min_ansible_version: 1.6
+  platforms:
+  - name: 'Ubuntu'
+    versions:
+      - 'precise'
+  categories:
+    - 'system'
+    - 'development'
+    - 'monitoring'
+    - 'web'
+dependencies: []
